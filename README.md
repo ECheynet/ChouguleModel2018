@@ -5,7 +5,7 @@ Numerical implementation of the uniform shear model including stability by Choug
 [![View Uniform shear model including atmospheric stability on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/74480-uniform-shear-model-including-atmospheric-stability)
 [![DOI](https://zenodo.org/badge/249147073.svg)](https://zenodo.org/badge/latestdoi/249147073)
 
-The uniform shear model for non-neutral, atmospheric-boundary-layer turbulence by  Chougule et al. (2018) [1] is here implemented in Matlab. The present implementation differs likely from the one used by ref. [1]. In particular, it relies on a more intuitive approach.
+The uniform shear model for non-neutral, atmospheric-boundary-layer turbulence by  Chougule et al. (2018) [1] is here implemented in Matlab. The present implementation differs likely from the one used by ref. [1]. In particular, it relies on a more intuitive approach. Thus it should be referred to as [2]
 
 The present submission contains:
 
@@ -18,3 +18,4 @@ This is the first version of the submission. Typos and bugs may still be present
 References:
 
 [1] Chougule, A., Mann, J., Kelly, M., & Larsen, G. C. (2018). Simplification and validation of a spectral-tensor model for turbulence including atmospheric stability. Boundary-Layer Meteorology, 167(3), 371-397.
+[2]  E. Cheynet (2022). Uniform shear model including atmospheric stability. Zenodo.  Retrieved yyyy-mm-dd. 
