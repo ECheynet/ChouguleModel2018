@@ -18,4 +18,5 @@ This is the first version of the submission. Typos and bugs may still be present
 References:
 
 [1] Chougule, A., Mann, J., Kelly, M., & Larsen, G. C. (2018). Simplification and validation of a spectral-tensor model for turbulence including atmospheric stability. Boundary-Layer Meteorology, 167(3), 371-397.
-[2]  E. Cheynet (2022). Uniform shear model including atmospheric stability. Zenodo.  Retrieved yyyy-mm-dd. 
+
+[2]  E. Cheynet (2022). Uniform shear model including atmospheric stability. Zenodo.  Retrieved yyyy-mm-dd.  doi:10.5281/zenodo.3774066
