@@ -15,7 +15,7 @@ The present submission contains:
 - An interactive example file Example_fitting.mlx that illustrates how the function fitChougule.mcan be used
 
 
-This is the first version of the submission. Typos and bugs may still be present. Any comment, suggestion or question is welcomed.
+This is the second version of the submission. Typos and bugs may still be present. Any comment, suggestion or question is welcomed.
 
 
 References:
