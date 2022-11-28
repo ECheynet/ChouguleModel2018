@@ -10,7 +10,10 @@ The uniform shear model for non-neutral, atmospheric-boundary-layer turbulence b
 The present submission contains:
 
 - The function ChouguleTurb that implements the spectral tensor of non-neutral, atmospheric-boundary-layer turbulence.
+- A function fitChougule.m that fits the stability-corrected uniform shear model to the target velocity spectra.
 - An interactive example file Example.mlx that reproduces Fig. 1 in Chougule et al. [1]
+- An interactive example file Example_fitting.mlx that illustrates how the function fitChougule.mcan be used
+
 
 This is the first version of the submission. Typos and bugs may still be present. Any comment, suggestion or question is welcomed.
 
